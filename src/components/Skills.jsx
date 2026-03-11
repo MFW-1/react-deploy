@@ -23,7 +23,7 @@ const skills = [
   {
     category: "Tools & Additional Knowledge",
     items: [
-      { name: "AWS", level: 90 },
+      { name: "AWS", level: 99 },
       { name: "Git & Github", level: 99 },
       { name: "VS Code", level: 99 },
       {name:"Chatgpt",level:96},
