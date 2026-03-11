@@ -21,7 +21,7 @@ export default function HeroSection() {
         <div className="flex-1">
           <h1 className="text-4xl sm:text-5xl font-bold mb-6 leading-tight">
             Build{" "}
-            <span className="text-indigo-500">Premium Web Solutions </span>
+            <span className="text-indigo-500">klhsdsknhss Web Solutions </span>
             for Businesses & Startups
           </h1>
           <div className="text-slate-700 dark:text-slate-300 text-xl  mb-6 max-w-lg">
